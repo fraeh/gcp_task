@@ -1,6 +1,3 @@
-# How did I proceed?
-[click here](how-did-i-proceed.md)
-
 # How to use
 
 ## Preparation
